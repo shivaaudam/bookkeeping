@@ -1,6 +1,7 @@
 {
   "name": "bookkeeping",
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "Book Kepping for payments and receipts",
   "license": "MIT",
   "scripts": {
     "ng": "ng",
