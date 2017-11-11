@@ -1,12 +1,12 @@
 {
   "name": "bookkeeping",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Book Kepping for payments and receipts",
   "license": "MIT",
   "angular-cli": {},
   "scripts": {
     "ng": "ng",
-    "start": "ng serve",
+    "start": "node server.js",
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
